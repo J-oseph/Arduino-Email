@@ -1,7 +1,7 @@
 /*
  * MADE BY J-oseph ON GITHUB
  * MOST OF THIS CODE IS NOT MY OWN
- * PLEASE CHECK OUT MY VIDEO https://youtu.be/pLjP7T7vvDU TO SEE HOW TO SET EVERYTHING UP
+ * PLEASE CHECK OUT MY VIDEO https://youtu.be/GFDTMFBPCn4 TO SEE HOW TO SET EVERYTHING UP
  * AND TO FIND LINKS TO OTHER PEOPLE'S CODE
  * THIS CODE WORKS WITH ARDUINO NANO 33 IOT
  * USE WITH OTHER ARDUINOS AT YOUR OWN RISK ;)
@@ -11,8 +11,8 @@
 
 char ssid[] = "network name";
 char pass[] = "password";    
-char eMailUser[] = "example@gmail.com"; 
-char eMailPass[] = "aaaabbbbccccdddd";
+char eMailUser[] = "example@gmail.com"; // account must have correct settings (see video)
+char eMailPass[] = "aaaabbbbccccdddd"; // has to be an app password (see video)
 char eMailRecipient[] = "random@website.com";  // if you want to send an email  
 char phoneRecipient[] = "1234567890@txt.att.net";    // if you want to send an text (formatted for at&t)
 //1234567890@vtext.com (formatted for verizon)

@@ -1,4 +1,5 @@
 # Arduino-Email
+I do not take credit for the steps or code. I am just trying to congregate different sources into one place.
 Code to send an email or text using an Arduino Nano 33 IoT. 
 Check out my YouTube video for steps on how to set up the Gmail account and hardware: https://youtu.be/pLjP7T7vvDU
 
